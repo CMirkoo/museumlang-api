@@ -1,0 +1,6 @@
+[INFO]root - 2025-03-20 16:54:00 - {"input_text": "hi my name is mirko and i'm here tu say hi to you ", "output": {"language_code": "EN", "confidence": 0.9999999999521947}}
+[INFO]root - 2025-03-20 16:55:08 - {"input_text": "hi my name is mirko and i'm here tu say hi to you ", "output": {"language_code": "EN", "confidence": 0.9999999999521947}}
+[INFO]root - 2025-03-20 16:55:14 - {"input_text": "hi my name is mirko and i'm here tu say hi to you ", "output": {"language_code": "EN", "confidence": 0.9999999999521947}}
+[INFO]root - 2025-03-20 16:55:39 - {"input_text": "ich bin mirko", "output": {"language_code": "DE", "confidence": 0.990618363364405}}
+[INFO]root - 2025-03-20 16:56:11 - {"input_text": "ciao mi chiamo mirko", "output": {"language_code": "IT", "confidence": 0.9994138039191613}}
+[INFO]root - 2025-10-07 18:04:22 - {"input_text": "the worst resturant", "output": {"language_code": "EN", "confidence": 0.9997443389281316}}
